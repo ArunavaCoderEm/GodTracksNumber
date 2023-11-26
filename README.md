@@ -6,7 +6,7 @@ It;'s a python GUI. In this GUI you can enter a mobile number and it can show yo
 How The GUI Looks - 
 ![howGui](https://github.com/ArunavaCoderEm/GodTracksNumber/assets/121813676/6a4eb2b9-a6b9-40af-b822-b0c9ea91c722)
 
-After Fill Up What Details It Gives - 
+After Fill Up, What Details It Gives - 
 ![finalaftergui](https://github.com/ArunavaCoderEm/GodTracksNumber/assets/121813676/bc9e8360-d7f2-4746-b280-0bde8ed4cad8)
 
 How t=The Map Looks - 

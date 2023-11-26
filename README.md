@@ -9,7 +9,7 @@ How The GUI Looks -
 After Fill Up, What Details It Gives - 
 ![finalaftergui](https://github.com/ArunavaCoderEm/GodTracksNumber/assets/121813676/bc9e8360-d7f2-4746-b280-0bde8ed4cad8)
 
-How t=The Map Looks - 
+How The Map Looks - 
 ![finalmap](https://github.com/ArunavaCoderEm/GodTracksNumber/assets/121813676/fd178b27-9b4e-47d0-ac7c-3fe72e63884c)
 
 Obviously I Have Hidden Some Details Of Me From The Screenshots.

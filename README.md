@@ -20,7 +20,9 @@ Obviously I Have Hidden Some Details Of Me From The Screenshots.
     b> Phonenumber
     c> Tkinter
     d> Folium
-2. Clone The Repo And Follow Sub-Points Of Step 1.
 
+2. Clone The Repo And Follow Sub-Points Of Step 1.
+3. Go To 'opencage' Website And Sign-Up To Get Your Own API-KEY Then Copy That And Paste It In Line 53 Removing The '#'.
+   
 # Made With ?
 Python and ❤️

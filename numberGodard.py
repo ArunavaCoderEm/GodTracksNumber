@@ -50,7 +50,7 @@ def numberGodard():
             labelqq = Label(numtr,text=f'It was / is a {simcom} SIM when bought',bg='white',fg='black',font=('vendana',30,'bold'))
             labelqq.place(x = 290, y = 350)
 
-            api_key = "3c99d109ad71496db2c8e674fad0992b"
+            api_key = "#"
             geocoder = OpenCageGeocode(api_key)
             query = str(loctrack)
             res = geocoder.geocode(query)

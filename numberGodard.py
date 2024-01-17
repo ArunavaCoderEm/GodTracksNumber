@@ -10,7 +10,7 @@ import folium
 
 
 splash = Tk()
-splash.title ('GodardGPT')
+splash.title ('GodardNumbers')
 splash.geometry ('400x400')
 splash.resizable (0,0)
 splash.configure (background = 'red')
